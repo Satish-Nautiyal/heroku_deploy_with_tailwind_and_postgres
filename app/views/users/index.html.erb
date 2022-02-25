@@ -9,7 +9,7 @@
   </div>
 
   <div id="users" class="min-w-full">
-  <% @user.each |user| %>
+  <% @user.each do|user| %>
   <p class="my-5">
   <strong class="block font-medium mb-1">Name:</strong>
   <%= user.name %>
