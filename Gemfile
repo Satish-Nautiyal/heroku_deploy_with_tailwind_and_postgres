@@ -59,4 +59,3 @@ gem 'web3-eth'
 gem 'figaro'
 gem "tailwindcss-rails", "~> 2.0"
 gem 'dwolla_v2'
-gem 'stimulus-rails'
